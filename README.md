@@ -13,7 +13,6 @@
   <img align="center" alt="Gislei-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Gislei-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Gislei-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="right" alt="Gislei-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/21094141?v=4">
 </div>
   
   ##
