@@ -4,7 +4,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gisleisilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisleisilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,vue,react,nodejs,vuetify,postgres,mysql,sqlite,linux,docker,git,npm,vite" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,vue,react,nodejs,postgres,mysql,sqlite,linux,docker,git,npm,vite" />
   
   ##
  
