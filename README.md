@@ -1,4 +1,4 @@
-## Olá eu sou o Gislei Silva
+## Olá, sou o Gislei Silva
   <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,vue,react,nodejs,postgres,mysql,sqlite,linux,docker,git,npm,vite" />
 <div> 
   <a href = "mailto:gisleisilvacruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
